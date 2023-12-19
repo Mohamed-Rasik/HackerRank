@@ -1,5 +1,8 @@
 def alter_char():
-    s="AABAAB"
+    q=int(input())
+
+    for i in q:
+        s=input()
 
     new = s[0]
 
